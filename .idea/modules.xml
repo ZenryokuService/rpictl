@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SwingRpiCtl.iml" filepath="$PROJECT_DIR$/SwingRpiCtl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PAppletRpiCtl.iml" filepath="$PROJECT_DIR$/PAppletRpiCtl.iml" />
     </modules>
   </component>
 </project>
