@@ -14,7 +14,7 @@ public class RpiCtl extends PApplet {
         PApplet.runSketch(param, myCls);
 }
 
-//    @Override
+//    @Override /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/bin/java
 //    public void settings() {
 //        size(599, 500);
 //    }
