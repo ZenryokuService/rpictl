@@ -79,7 +79,7 @@
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>libs/</classpathPrefix>
                             <mainClass>
-                                pictl.swing.frame.RpiCtl
+                                rpictl.swing.frame.RpiCtl
                             </mainClass>
                         </manifest>
                     </archive>
